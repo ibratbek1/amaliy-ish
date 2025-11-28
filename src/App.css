@@ -140,3 +140,7 @@
                 font-size: 2rem;
             }
         }
+
+        .name{
+            text-align: center;
+        }
