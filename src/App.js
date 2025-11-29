@@ -3,6 +3,7 @@ import { Salom } from "./new";
 import './App.css';
 import {Hello, Counter} from "./Components/what";
 function App() {
+  <Salom/>
   return (
     <div className="name">
        <Salom/>
@@ -99,7 +100,6 @@ function App() {
 
   //   </div>
   // );
-
 
 }
 
